@@ -17,7 +17,20 @@ boneco que precisa ser montado e colorido de acordo com a configuração do usu�
 isso também acontece com mobilias e alguns mapas da cidade. Para renderizar o cenário,
 é necessário "estudar" as imagens para poder definir o que cada objeto representa, suas
 coordenanas e tamanho.
+
 ![boneco](char/76img.png)
+
+## Sobre o projeto
+Detalhes das tecnologias usadas para dar vida ao jogo:
+### Linguagens e bibliotecas
+JavaScript, com o uso da biblioteca [melonJS](https://melonjs.org) no front-end e NodeJS no back.
+
+> Outras linguagens também podem ser usadas no back-end, desde que se implemente o mesmo
+> protocolo de comunicação (como web-socket). Futuramente terá uma documentação detalhada
+
+### Aplicativos
+Editores de pixel-art e de _tiles_ (como [Tiled](https://mapeditor.org) ) serão usados para organizar
+melhor as imagens e construir cenários personalizados.
 
 # Organização das pastas
 Cada pasta contém recursos que estão relacionados entre sí.
@@ -31,11 +44,14 @@ Sprites relacionados ao personagem, como corpo, cabelo, acessórios.
 ### city
 Relacionado ao mapa da cidade, como prédios, casas, ruas, árvores.
 
+![prédios](city/11img.png)
+
 ### events
 O que acontece com o personagem, efeitos de fumaça, faíscas...
 
 ### ground
 São tiles, pequenos quadros com desenho de terra, gramados, calçadas, pisos e paredes.
+
 ![pisos e calçadas](ground/2img.png)
 
 ### icons
