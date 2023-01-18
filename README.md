@@ -52,7 +52,7 @@ O que acontece com o personagem, efeitos de fumaça, faíscas...
 ### ground
 São tiles, pequenos quadros com desenho de terra, gramados, calçadas, pisos e paredes.
 
-![pisos e calçadas](ground/2img.png)
+![pisos e calçadas](ground/ground.png)
 
 ### icons
 Fazem parte do HUD, ícones informativos e indicadores de ações.
