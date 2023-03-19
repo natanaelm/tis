@@ -1,3 +1,9 @@
+# <span style=color:#800"">Aviso!</span>
+<p style="background-color:#ffc0c0;color:#800;border:1px solid #800;border-radius:6px">
+O projeto que usa **esta arte** não será levado adiante.
+Um novo jogo com uma arte diferente será criado neste perfil.
+</p>
+
 # Recursos do jogo The Sims 3 Java MicroEdition
 Este repositório contém arquivos extraídos do jogo The Sims 3 para
 celulares java. São imagens png contendo "sprites" do jogo e que foram
@@ -23,7 +29,7 @@ coordenanas e tamanho.
 ## Sobre o projeto
 Detalhes das tecnologias usadas para dar vida ao jogo:
 ### Linguagens e bibliotecas
-JavaScript, com o uso da biblioteca [melonJS](https://melonjs.org) no front-end e NodeJS no back.
+JavaScript, com o uso da biblioteca StageJS no front-end e NodeJS no back.
 
 > Outras linguagens também podem ser usadas no back-end, desde que se implemente o mesmo
 > protocolo de comunicação (como web-socket). Futuramente terá uma documentação detalhada
@@ -64,4 +70,4 @@ Alguns locais têm paredes personalizadas, figurantes e cenários.
 Ícones dos Mini Jogos (pescaria, jogo da memória...)
 
 ### mobile
-Tem os móveis da casa, portas e outras decorações.
+Um arquivo compactado que contem os móveis da casa, portas e outras decorações.
