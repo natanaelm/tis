@@ -1,4 +1,4 @@
-# <span style=color:#800"">Aviso!</span>
+# <span style="color:#800">Aviso!</span>
 <p style="background-color:#ffc0c0;color:#800;border:1px solid #800;border-radius:6px">
 O projeto que usa **esta arte** não será levado adiante.
 Um novo jogo com uma arte diferente será criado neste perfil.
