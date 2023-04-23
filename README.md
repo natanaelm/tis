@@ -1,9 +1,3 @@
-# <span style=color:#800"">Aviso!</span>
-<p style="background-color:#ffc0c0;color:#800;border:1px solid #800;border-radius:6px">
-O projeto que usa **esta arte** não será levado adiante.
-Um novo jogo com uma arte diferente será criado neste perfil.
-</p>
-
 # Recursos do jogo The Sims 3 Java MicroEdition
 Este repositório contém arquivos extraídos do jogo The Sims 3 para
 celulares java. São imagens png contendo "sprites" do jogo e que foram
